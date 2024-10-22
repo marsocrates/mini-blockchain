@@ -1,6 +1,7 @@
 *.json
 *.json.gz
 blockchain.egg-info
-__pychache__
+__pychache__/
+.DS_Store
 *.zip
 data/
