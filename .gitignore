@@ -1,5 +1,6 @@
 *.json
 *.json.gz
-*.egg-info
+blockchain.egg-info
 __pychache__
 *.zip
+data/
