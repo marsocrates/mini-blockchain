@@ -1,0 +1,2 @@
+[console_scripts]
+blockchain = cli:blockchain_poc

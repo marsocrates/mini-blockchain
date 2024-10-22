@@ -1,0 +1,5 @@
+*.json
+*.json.gz
+*.egg-info
+__pychache__
+*.zip
